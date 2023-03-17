@@ -1,0 +1,27 @@
+{
+  "name": "tratoli-assignment",
+  "version": "1.0.0",
+  "description": "pokemon app assignemnt by tratoli company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onkarpk65/PokemonAssignment.git"
+  },
+  "author": "Onkar Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onkarpk65/PokemonAssignment/issues"
+  },
+  "homepage": "https://github.com/Onkarpk65/PokemonAssignment#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
